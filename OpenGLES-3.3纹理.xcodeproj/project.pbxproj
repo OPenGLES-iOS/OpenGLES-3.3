@@ -34,6 +34,7 @@
 		83DD04BD1EC439D400C63378 /* AGLKTextureMatrix2PointLightShader.vsh in Resources */ = {isa = PBXBuildFile; fileRef = 83DD04AC1EC439D400C63378 /* AGLKTextureMatrix2PointLightShader.vsh */; };
 		83DD04C11EC45ABE00C63378 /* test03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83DD04C01EC45ABE00C63378 /* test03.jpg */; };
 		83DD04C31EC45B7500C63378 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 83DD04C21EC45B7500C63378 /* test.png */; };
+		83DD04C51EC46C5D00C63378 /* preview.gif in Resources */ = {isa = PBXBuildFile; fileRef = 83DD04C41EC46C5D00C63378 /* preview.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +102,7 @@
 		83DD04AC1EC439D400C63378 /* AGLKTextureMatrix2PointLightShader.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = AGLKTextureMatrix2PointLightShader.vsh; sourceTree = "<group>"; };
 		83DD04C01EC45ABE00C63378 /* test03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test03.jpg; sourceTree = "<group>"; };
 		83DD04C21EC45B7500C63378 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		83DD04C41EC46C5D00C63378 /* preview.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = preview.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 				83DD046C1EC4239E00C63378 /* Info.plist */,
 				83DD04C01EC45ABE00C63378 /* test03.jpg */,
 				83DD04C21EC45B7500C63378 /* test.png */,
+				83DD04C41EC46C5D00C63378 /* preview.gif */,
 				83DD045B1EC4239E00C63378 /* Supporting Files */,
 			);
 			path = "OpenGLES-3.3纹理";
@@ -349,6 +352,7 @@
 				83DD04B81EC439D400C63378 /* AGLKPointParticleShader.fsh in Resources */,
 				83DD04BA1EC439D400C63378 /* AGLKSkyboxShader.fsh in Resources */,
 				83DD04BB1EC439D400C63378 /* AGLKSkyboxShader.vsh in Resources */,
+				83DD04C51EC46C5D00C63378 /* preview.gif in Resources */,
 				83DD04BC1EC439D400C63378 /* AGLKTextureMatrix2PointLightShader.fsh in Resources */,
 				83DD04661EC4239E00C63378 /* Main.storyboard in Resources */,
 				83DD04C11EC45ABE00C63378 /* test03.jpg in Resources */,
